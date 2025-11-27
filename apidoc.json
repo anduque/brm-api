@@ -1,0 +1,8 @@
+{
+  "name": "API BRM",
+  "version": "1.0.0",
+  "description": "API REST con Node.js, Express, Sequelize y PostgreSQL",
+  "title": "API BRM Documentation",
+  "url": "http://localhost:3000"
+}
+
